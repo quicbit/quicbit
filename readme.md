@@ -1,7 +1,13 @@
+# Quicbit
+
+Simple, fast, open software.
+
+
+
 # Announcement
 
 Quicbit libraries have been skillfully crafted by software engineers using ancient, well-worn, classical,
-hand-tooled, functions.  They are specially designed to reside within your sensible application, 
+hand-tooled, functions.  They are specially designed to reside unobtrusively within your sensible application, 
 to be split up and integrated with incomprehensible libraries when your company gets bought.\*
 
 
