@@ -1,8 +1,14 @@
-# Quicbit
+# Quicbit Inc
 
 Simple, fast, open software.
 
+Quicbit software is organized on GitHub by programming language.  We are in the early stages of creating and expanding
+the base software, starting with Javascript.
 
+* [quicbit-js](http://github.com/orgs/quicbit-js)
+* [quicbit-c](http://github.com/orgs/quicbit-c) (to be built) 
+* [quicbit-py](http://github.com/orgs/quicbit-py) (to be built) 
+* [quicbit-java](http://github.com/orgs/quicbit-java) (to be built) 
 
 # Announcement
 
