@@ -21,7 +21,7 @@ Quicbit software is organized on GitHub by programming language.  We are in the 
 the base software, starting with Javascript.
 
 * [quicbit-js](http://github.com/orgs/quicbit-js)
-* [quicbit-c](http://github.com/orgs/quicbit-c) (to be built) 
+* [quicbit-c](http://github.com/orgs/quicbit-c) 
 * [quicbit-py](http://github.com/orgs/quicbit-py) (to be built) 
 * [quicbit-java](http://github.com/orgs/quicbit-java) (to be built) 
 
