@@ -9,6 +9,11 @@ functions, not frameworks.  By making open libraries available across languages 
 solutions can be reassembled into other products and endure as long as the software 
 languages themselves.
 
+We also write our libraries in adherence to [qb-standard](https://github.com/quicbit-js/qb-standard)
+usually attaining 100% code coverage. Coverage is accomplished
+relatively easily using our very own [test-kit](https://github.com/quicbit-js/test-kit) which, 
+like all Quicbit software, strives to be as lightweight and simple as we can make it.
+
 ## Software Repositories
 
 Quicbit software is organized on GitHub by programming language.  All Quicbit libraries are available
