@@ -9,16 +9,11 @@ functions, not frameworks.  By making open libraries available across languages 
 solutions can be reassembled into other products and endure as long as the software 
 languages themselves.
 
-Our first available library is a simple test kit that we use for our own products under development.  If you use javascript and want to write concise tests with minimum framework fuss, give it a try:
-
-https://github.com/quicbit-js/test-kit
-
-That’s just a simple test kit.  The products we are testing with it are currently under development.  Check back with us for updates!  Happy development!
-
 ## Software Repositories
 
-Quicbit software is organized on GitHub by programming language.  We are in the early stages of creating and expanding
-the base software, starting with Javascript.
+Quicbit software is organized on GitHub by programming language.  All Quicbit libraries are available
+in javascript for browser and web availability.  Libraries that benefit from optimization will be 
+made available in C and ports to other languages with then follow.
 
 * [quicbit-js](http://github.com/orgs/quicbit-js)
 * [quicbit-c](http://github.com/orgs/quicbit-c) 
